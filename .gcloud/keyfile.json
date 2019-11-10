@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "garderobel",
+  "private_key_id": "cbec8af3f27426fc9f6b66fc7ac17f02b39673e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQLa3zy/UGpnaZ\nIFCTHYNvqRAL/3NC80tnrmfaSRFgGUUVNjixorfyCYk5phwZ6bhExI7S5qPu+ZvJ\nTOWwzIo0E+ALM3QTr8RxrsdxpHEhfCmWtm9rZtw92DTEUfBUfC4PR1uVOEgf03PD\n0Rz/04f6rB5HTReiv3UZKodP/Vupi2JZ0sqkY7X0ey+kQ3JjeDu/MKJuF6uPwaPF\nJqPzFmbRbg/LhIgxwkOMNG44Hi4G41q3eeMMeqPc76w1lMZ+gK+aMfqSrbYpSXvr\nsKQ4WEKmvGMmD8O0pDTROOyauTYsdFVkLJFnU88tGKXLzoL1vJ7u7jNr5inMOzrA\nlc+rs9JvAgMBAAECggEAHvSfz6Nv1WCyQAhPJHcGvFepKVpMbgh8nSM2Cwj7IQ3r\n5jUBESqloeLoQqdmiy3CMYmePKvmcK3JA/xtqHsSBUJrLRx8BKoNXHcxPTYYUB8v\ncrtyyrWH/gNIuQn6trj+zqr8f9pYqfSle1qPhmHtZSXFTnu/4mKHCsM10DfOkWUY\nTsub9J/ht8ADSw8KlkvDv4J2+9LGieJW1X1AKU6NphMU9Nkq8SwiLss9YicWjSma\nsbKdttM2V8xW2zWKXhRoDuTR7y7WFBzWJFT6Ck1dUxh3cmtfnbi9JSIpWX+V8k1/\ngyTEko6nwaz5KHBFh7iYKD4xvqO7SP5NEwzS3cAN4QKBgQDFQ7DPUmkfkPxAlIlk\nZohcNvbIMX0ruPauxGfbZOF0wcgXZueevp84hTYMmkSxzRgMaSbBkIKVVDrzUqeD\nXesBaIYTPo3vJgkzeFFWXGe3wivRsSBXh+/5cTNvFKrBH3dglxxXSrD7OpEU6ZfW\nqlAVp4hGj5k/Ri1I5OEvuRr83wKBgQC7G45PXqT7JpIlNC4r8k495YSjA647kLIX\ne4yqtUX5tYqEDBTUKEBT+/9FAmVqnCUl0e40ScrzwMivzETMcK0lwYLYGcODf2xF\nJ5ODNyd5sRAYKcNgJaN1wpstXpiXjCugNUCN0GIXBUYSk8YXsNBUW2w4a8Prurtm\nXNgxy0hMcQKBgAoHewHPatDUCj8uTh3wqJYnpTxgZ8DFUqVoDu+0nVHWWFn4PWZw\nwp+ZBjp1zXBMwSBAaFwHANyev7CHT0T6jWww6EAqOgUipe0b/OarJArPsHKk0sQg\ngS7pdnf7UQMommUqyaIWhhD/1Uh+591eI1w2fFM6EcyJwNun51sJyjl5AoGAPmA5\nWQxcQ73gCrcSjWQB4XCafx3C/+iE9n8hrecwpMZ4nvzIFNI2X8kqmH7sAFZ9q9YI\nazYOiqRCQxj99om5r1SLoi80lqnsFkHTU3MXneIBU4zYrTze+WsfAEkA5cS85nPa\nSWymxrXjXl4VM+CmEvlHYqfKcNOXldBt4mu6doECgYBSwm+j1yYlzG/8OeR/XfLH\nFL0KXH9HclOWosvwppn07rwy2fijoKFBcIhErOxVg0t8eSHR5ly9HmhwJbkZ+eVJ\n/Sjo1haufAxxtzZYR9TnA0fNG9Lnqx83dtmpvVCHMv5BKZkV+xW5e83LHGaxpckO\nTzVTU0DeD20wKohQXBA6jw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "serverless@garderobel.iam.gserviceaccount.com",
+  "client_id": "104492603275933540451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serverless%40garderobel.iam.gserviceaccount.com"
+}
