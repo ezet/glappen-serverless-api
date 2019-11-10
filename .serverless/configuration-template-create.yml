@@ -1,0 +1,3 @@
+resources:
+  - type: storage.v1.bucket
+    name: sls-gcf-go111-dev-1564695437700

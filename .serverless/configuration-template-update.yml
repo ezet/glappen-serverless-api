@@ -1,0 +1,16 @@
+resources:
+  - type: storage.v1.bucket
+    name: sls-gcf-go111-dev-1564695437700
+  - type: cloudfunctions.v1beta2.function
+    name: gcf-go111-dev-create_reservation
+    properties:
+      location: europe-west2
+      availableMemoryMb: 256
+      runtime: go111
+      timeout: 60s
+      function: CreateReservation
+      sourceArchiveUrl: >-
+        gs://sls-gcf-go111-dev-1564695437700/serverless/gcf-go111/dev/1564734709309-2019-08-02T08:31:49.309Z/gcf-go111.zip
+      labels: {}
+      httpsTrigger:
+        url: path
